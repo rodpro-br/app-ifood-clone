@@ -25,3 +25,30 @@
 
 ## Obrigado
 <p>Espero que tenham gostado, façam um fork deste projeto e crie sua versão e customizações e qualquer duvida só me enviar pelo [Linkedin](https://linkedin.com/in/pablohev), pode me mandar como está o projeto tbm, vou gostar de ver sua evolução, bons estudos :rocket:</p>
+
+Extras para rodar o App
+
+--1 Ter yarn
+
+npm install --global yarn
+
+
+--2 instalar yarn-upgrade-all
+
+yarn add --dev yarn-upgrade-all
+
+
+--3 Ir para diretório do zip descompactado: ..\app-ifood-clone-master
+
+
+--4 atualizar dependencias
+
+npx yarn-upgrade-all
+
+
+--5 inicializar ifood clone
+
+expo start
+
+
+--6 ler QR code no app Expo Go
